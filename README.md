@@ -1,7 +1,10 @@
 # Haven of Repose
 
 ## Screenshots
-![Game Screenshot1](assets/screenshot1.png) ![Game Screenshot2](assets/screenshot2.png)
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/screenshot1.png" alt="Game Screenshot1" style="width: 45%;"/>
+  <img src="assets/screenshot2.png" alt="Game Screenshot2" style="width: 45%;"/>
+</div>
 
 ## Game Overview
 **Haven of Repose** is a pixel-style speed-typing game that disguises itself as a soothing escape for stressed college students. Players are lulled into a sense of calm by a cute flower sprite, who guides them through relaxing nature scenes and a breathing exercise. Just when it feels like a haven, the flower reveals its true colors, mocking the player and plunging them into an unwinnable speed-typing challenge.
@@ -14,7 +17,7 @@ The game starts simple: press the spacebar to interact with a cute flower sprite
 ## Sample Playthrough
 You can watch the following playthrough to get a sense of the gameplay:
 
-- **[Playthrough](https://drive.google.com/file/d/1xe6OYSNfEaUwYPLK0-fWL8WH2RctseLV/view?usp=sharing)**
+- **[Full Playthrough](https://drive.google.com/file/d/1xe6OYSNfEaUwYPLK0-fWL8WH2RctseLV/view?usp=sharing)**
 
 ## Play Online
 
