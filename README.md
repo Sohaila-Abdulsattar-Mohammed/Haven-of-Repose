@@ -36,3 +36,4 @@ I used the following resources and tools overall:
   - [Glitch video](https://youtu.be/CYcbnFL2HS4?si=Zc5QZ3MQzxZoBwla)
   - [Thunderstorm sound effect](https://www.youtube.com/watch?v=_xsa__9uQvk&t=8s)
   - [Wind sound effect](https://youtu.be/-bYltbDJDVQ?si=h6TTm2LcboW7Hmav)
+All rights to the original assets belong to their respective creators.
