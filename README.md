@@ -21,12 +21,12 @@ You can watch the following playthrough to get a sense of the gameplay:
 
 ## Play Online
 
-You can enjoy **Haven of Repose** directly in your browser through this [p5.js link](https://editor.p5js.org/sm10688/sketches/bYDK5KyE0). No installation is needed! When playing, click on the canvas and press "F" to switch to fullscreen mode for the best experience.
+You can enjoy **Haven of Repose** directly in your browser through this [p5.js link](https://editor.p5js.org/sm10688/sketches/bYDK5KyE0). No installation is needed! When playing, click on the canvas and press the "f" key to switch to fullscreen mode for the best experience.
 
 ## Technology Stack
 
 - **p5.js**: The creative coding library powering the game.
-- **HTML/CSS/JavaScript**: The core web development technologies used to implement game logic and structure.
+- **HTML/CSS/JavaScript**: The core web development technologies used to implement the game logic and structure.
 
 ## Credits
 I used the following resources and tools overall:
