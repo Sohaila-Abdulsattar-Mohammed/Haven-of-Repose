@@ -30,9 +30,9 @@ You can enjoy **Haven of Repose** directly in your browser through this [p5.js l
 
 ## Credits
 I used the following resources and tools overall:
-- Created the pixel art using [DALL-E 3](https://openai.com/index/dall-e-3/) and refined the art as needed using [Pixilart](https://www.pixilart.com/).
+- Created the pixel art using [DALL-E 3](https://openai.com/index/dall-e-3/) and manually refined the art as needed using [Pixilart](https://www.pixilart.com/).
 - Collected the following sound and video assets:
-  - [River sound effect](https://youtu.be/NSMqGOXulXw?si=HSlHrbYGB-q0NBBN) for the relaxing phase of the game.
-  - [Glitch video](https://youtu.be/CYcbnFL2HS4?si=Zc5QZ3MQzxZoBwla) for the sudden transition into the evil phase.
-  - [Thunderstorm sound effect](https://www.youtube.com/watch?v=_xsa__9uQvk&t=8s) for the evil phase of the game.
-  - [Wind sound effect](https://youtu.be/-bYltbDJDVQ?si=h6TTm2LcboW7Hmav) for when the game is over.
+  - [River sound effect](https://youtu.be/NSMqGOXulXw?si=HSlHrbYGB-q0NBBN)
+  - [Glitch video](https://youtu.be/CYcbnFL2HS4?si=Zc5QZ3MQzxZoBwla)
+  - [Thunderstorm sound effect](https://www.youtube.com/watch?v=_xsa__9uQvk&t=8s)
+  - [Wind sound effect](https://youtu.be/-bYltbDJDVQ?si=h6TTm2LcboW7Hmav)
